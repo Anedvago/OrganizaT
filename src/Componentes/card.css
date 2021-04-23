@@ -1,0 +1,53 @@
+.tpbaja{
+    background-color: rgb(131, 253, 131);
+    height: 40px;
+    border-radius: 100px;
+}
+
+.tpmedia{
+    background-color: rgb(241, 241, 131);
+    height: 40px;
+    border-radius: 100px;
+}
+
+.tpalta{
+    background-color: rgb(247, 114, 114);
+    height: 40px;
+    border-radius: 100px;
+}
+.baja{
+    background-color: rgb(131, 253, 131);
+    height: 40px;
+    border-radius: 100px;
+}
+
+.media{
+    background-color: rgb(241, 241, 131);
+    height: 40px;
+    border-radius: 100px;
+}
+
+.alta{
+    background-color: rgb(247, 114, 114);
+    height: 40px;
+    border-radius: 100px;
+}
+
+.cardDiv{
+    margin: 50px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px rgb(117, 116, 116);
+}
+.cardDiv:hover{
+    margin: 51px;
+    box-shadow: 0px 10px 30px rgb(117, 116, 116);
+}
+
+.cardContent{
+    margin-top: 10px;
+    height: 150px;
+}
+
+.btn-card{
+    margin-bottom:10px;
+}

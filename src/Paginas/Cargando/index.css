@@ -1,0 +1,12 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+.fondoCargando{
+    background-color: #FDFDFF;
+
+}
+.alienimg{
+    width: 100%;
+}
+.rowCargando{
+    align-items: center;
+}

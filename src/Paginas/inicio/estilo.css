@@ -1,0 +1,76 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+.contenido{
+    margin-top: 100px;
+    justify-content: center;
+}
+.btn{
+    background-color: #b47eb3;
+    border-color:transparent;
+    border-radius: 100px;
+    margin-left: 5px;
+    color: white;
+    box-shadow: black;
+}
+.btn:hover{
+    background-color: #7e597d;
+    border-color:transparent;
+
+}
+.barraInicio{
+    background-color: #334e58;
+    color: white;
+    
+}
+.txtNav{
+    color: white;
+}
+.acordion{
+    margin-top: 100px;
+}
+.formulario{
+    justify-content: center;
+}
+
+.contCard{
+    margin-top: 20px;
+    box-shadow: 0px 0px 5px rgb(117, 116, 116);
+}
+
+
+.baja{
+    background-color: rgb(131, 253, 131);
+    height: 40px;
+    border-radius: 100px;
+}
+
+.media{
+    background-color: rgb(241, 241, 131);
+    height: 40px;
+    border-radius: 100px;
+}
+
+.alta{
+    background-color: rgb(247, 114, 114);
+    height: 40px;
+    border-radius: 100px;
+}
+
+.cardDiv{
+    margin: 50px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px rgb(117, 116, 116);
+}
+.cardDiv:hover{
+    margin: 51px;
+    box-shadow: 0px 10px 30px rgb(117, 116, 116);
+}
+
+.cardContent{
+    margin-top: 10px;
+    height: 150px;
+}
+
+.btn-card{
+    margin-bottom:10px;
+}
